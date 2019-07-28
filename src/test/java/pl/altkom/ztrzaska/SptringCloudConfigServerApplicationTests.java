@@ -1,4 +1,4 @@
-package pl.altkom.ztrzaska.configserver;
+package pl.altkom.ztrzaska;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package pl.altkom.ztrzaska.configserver;
+package pl.altkom.ztrzaska.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
