@@ -11,7 +11,7 @@
 	<groupId>pl.altkom.ztrzaska</groupId>
 	<artifactId>sptring-cloud-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sptring-cloud-config-server</name>
+	<name>spring-cloud-config-server</name>
 	<description>Spring cloud config server</description>
 
 	<properties>
